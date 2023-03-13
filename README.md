@@ -1,2 +1,3 @@
-# doz2ro_game
-프로그램패턴 수업을 위한 저장소
+# 유한대학교 VR앱학과 Programming Pattern
+* 201727034
+* 허도영
